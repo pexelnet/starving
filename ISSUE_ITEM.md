@@ -8,6 +8,9 @@
 - Mapovanie tohoto itemu na existujúci item vo formáte `MATERIAL:data;amount`. 
 - Konštanty typu materiálu je možné nájšt tu: <https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse/src/main/java/org/bukkit/Material.java> 
 
+**Max Stack Amount:** 1
+- maximálny počet itemov v jednom stacku
+
 **Zriedkavosť:** UNCOMMON
 - zriedkavosť (šanca na nájdenie itemu)
 - jedna z hodnôt z tabulky:
