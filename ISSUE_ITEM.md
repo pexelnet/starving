@@ -6,6 +6,7 @@
 
 **Mapping:** `GOLD_HOE:0;1` 
 - Mapovanie tohoto itemu na existujúci item vo formáte `MATERIAL:data;amount`. 
+- Zoznam aktuálnych mapovaní je možné nájsť tu: <http://starving.eu/mapping.php>
 - Konštanty typu materiálu je možné nájšt tu: <https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse/src/main/java/org/bukkit/Material.java> 
 
 **Max Stack Amount:** 1
