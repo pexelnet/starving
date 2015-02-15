@@ -1,472 +1,387 @@
 Solid blocks:
- 1 - STONE
- 2 - GRASS
- 3 - DIRT
- 4 - COBBLESTONE
- 5 - WOOD
- 7 - BEDROCK
- 12 - SAND
- 13 - GRAVEL
- 14 - GOLD_ORE
- 15 - IRON_ORE
- 16 - COAL_ORE
- 17 - LOG
- 18 - LEAVES
- 19 - SPONGE
- 20 - GLASS
- 21 - LAPIS_ORE
- 22 - LAPIS_BLOCK
- 23 - DISPENSER
- 24 - SANDSTONE
- 25 - NOTE_BLOCK
- 26 - BED_BLOCK
- 29 - PISTON_STICKY_BASE
- 33 - PISTON_BASE
- 34 - PISTON_EXTENSION
- 35 - WOOL
- 36 - PISTON_MOVING_PIECE
- 41 - GOLD_BLOCK
- 42 - IRON_BLOCK
- 43 - DOUBLE_STEP
- 44 - STEP
- 45 - BRICK
- 46 - TNT
- 47 - BOOKSHELF
- 48 - MOSSY_COBBLESTONE
- 49 - OBSIDIAN
- 52 - MOB_SPAWNER
- 53 - WOOD_STAIRS
- 54 - CHEST
- 56 - DIAMOND_ORE
- 57 - DIAMOND_BLOCK
- 58 - WORKBENCH
- 60 - SOIL
- 61 - FURNACE
- 62 - BURNING_FURNACE
- 63 - SIGN_POST
- 64 - WOODEN_DOOR
- 67 - COBBLESTONE_STAIRS
- 68 - WALL_SIGN
- 70 - STONE_PLATE
- 71 - IRON_DOOR_BLOCK
- 72 - WOOD_PLATE
- 73 - REDSTONE_ORE
- 74 - GLOWING_REDSTONE_ORE
- 79 - ICE
- 80 - SNOW_BLOCK
- 81 - CACTUS
- 82 - CLAY
- 84 - JUKEBOX
- 85 - FENCE
- 86 - PUMPKIN
- 87 - NETHERRACK
- 88 - SOUL_SAND
- 89 - GLOWSTONE
- 91 - JACK_O_LANTERN
- 92 - CAKE_BLOCK
- 95 - LOCKED_CHEST
- 95 - STAINED_GLASS
- 96 - TRAP_DOOR
- 97 - MONSTER_EGGS
- 98 - SMOOTH_BRICK
- 99 - HUGE_MUSHROOM_1
- 100 - HUGE_MUSHROOM_2
- 101 - IRON_FENCE
- 102 - THIN_GLASS
- 103 - MELON_BLOCK
- 107 - FENCE_GATE
- 108 - BRICK_STAIRS
- 109 - SMOOTH_STAIRS
- 110 - MYCEL
- 112 - NETHER_BRICK
- 113 - NETHER_FENCE
- 114 - NETHER_BRICK_STAIRS
- 116 - ENCHANTMENT_TABLE
- 117 - BREWING_STAND
- 118 - CAULDRON
- 120 - ENDER_PORTAL_FRAME
- 121 - ENDER_STONE
- 122 - DRAGON_EGG
- 123 - REDSTONE_LAMP_OFF
- 124 - REDSTONE_LAMP_ON
- 125 - WOOD_DOUBLE_STEP
- 126 - WOOD_STEP
- 128 - SANDSTONE_STAIRS
- 129 - EMERALD_ORE
- 130 - ENDER_CHEST
- 133 - EMERALD_BLOCK
- 134 - SPRUCE_WOOD_STAIRS
- 135 - BIRCH_WOOD_STAIRS
- 136 - JUNGLE_WOOD_STAIRS
- 137 - COMMAND
- 138 - BEACON
- 139 - COBBLE_WALL
- 145 - ANVIL
- 146 - TRAPPED_CHEST
- 147 - GOLD_PLATE
- 148 - IRON_PLATE
- 151 - DAYLIGHT_DETECTOR
- 152 - REDSTONE_BLOCK
- 153 - QUARTZ_ORE
- 154 - HOPPER
- 155 - QUARTZ_BLOCK
- 156 - QUARTZ_STAIRS
- 158 - DROPPER
- 159 - STAINED_CLAY
- 160 - STAINED_GLASS_PANE
- 161 - LEAVES_2
- 162 - LOG_2
- 163 - ACACIA_STAIRS
- 164 - DARK_OAK_STAIRS
- 165 - SLIME_BLOCK
- 166 - BARRIER
- 167 - IRON_TRAPDOOR
- 168 - PRISMARINE
- 169 - SEA_LANTERN
- 170 - HAY_BLOCK
- 172 - HARD_CLAY
- 173 - COAL_BLOCK
- 174 - PACKED_ICE
- 179 - RED_SANDSTONE
- 180 - RED_SANDSTONE_STAIRS
- 181 - DOUBLE_STONE_SLAB2
- 182 - STONE_SLAB2
- 183 - SPRUCE_FENCE_GATE
- 184 - BIRCH_FENCE_GATE
- 185 - JUNGLE_FENCE_GATE
- 186 - DARK_OAK_FENCE_GATE
- 187 - ACACIA_FENCE_GATE
- 188 - SPRUCE_FENCE
- 189 - BIRCH_FENCE
- 190 - JUNGLE_FENCE
- 191 - DARK_OAK_FENCE
- 192 - ACACIA_FENCE
-Count: 142
-
-Non-Solid blocks:
- 0 - AIR
- 6 - SAPLING
- 8 - WATER
- 9 - STATIONARY_WATER
- 10 - LAVA
- 11 - STATIONARY_LAVA
- 27 - POWERED_RAIL
- 28 - DETECTOR_RAIL
- 30 - WEB
- 31 - LONG_GRASS
- 32 - DEAD_BUSH
- 37 - YELLOW_FLOWER
- 38 - RED_ROSE
- 39 - BROWN_MUSHROOM
- 40 - RED_MUSHROOM
- 50 - TORCH
- 51 - FIRE
- 55 - REDSTONE_WIRE
- 59 - CROPS
- 65 - LADDER
- 66 - RAILS
- 69 - LEVER
- 75 - REDSTONE_TORCH_OFF
- 76 - REDSTONE_TORCH_ON
- 77 - STONE_BUTTON
- 78 - SNOW
- 83 - SUGAR_CANE_BLOCK
- 90 - PORTAL
- 93 - DIODE_BLOCK_OFF
- 94 - DIODE_BLOCK_ON
- 104 - PUMPKIN_STEM
- 105 - MELON_STEM
- 106 - VINE
- 111 - WATER_LILY
- 115 - NETHER_WARTS
- 119 - ENDER_PORTAL
- 127 - COCOA
- 131 - TRIPWIRE_HOOK
- 132 - TRIPWIRE
- 140 - FLOWER_POT
- 141 - CARROT
- 142 - POTATO
- 143 - WOOD_BUTTON
- 144 - SKULL
- 149 - REDSTONE_COMPARATOR_OFF
- 150 - REDSTONE_COMPARATOR_ON
- 157 - ACTIVATOR_RAIL
- 171 - CARPET
- 175 - DOUBLE_PLANT
- 176 - STANDING_BANNER
- 177 - WALL_BANNER
- 178 - DAYLIGHT_DETECTOR_INVERTED
- 193 - SPRUCE_DOOR
- 194 - BIRCH_DOOR
- 195 - JUNGLE_DOOR
- 196 - ACACIA_DOOR
- 197 - DARK_OAK_DOOR
-Count: 57
-
-Transparent blocks:
- 0 - AIR
- 6 - SAPLING
- 27 - POWERED_RAIL
- 28 - DETECTOR_RAIL
- 31 - LONG_GRASS
- 32 - DEAD_BUSH
- 37 - YELLOW_FLOWER
- 38 - RED_ROSE
- 39 - BROWN_MUSHROOM
- 40 - RED_MUSHROOM
- 50 - TORCH
- 51 - FIRE
- 55 - REDSTONE_WIRE
- 59 - CROPS
- 65 - LADDER
- 66 - RAILS
- 69 - LEVER
- 75 - REDSTONE_TORCH_OFF
- 76 - REDSTONE_TORCH_ON
- 77 - STONE_BUTTON
- 78 - SNOW
- 83 - SUGAR_CANE_BLOCK
- 90 - PORTAL
- 93 - DIODE_BLOCK_OFF
- 94 - DIODE_BLOCK_ON
- 104 - PUMPKIN_STEM
- 105 - MELON_STEM
- 106 - VINE
- 111 - WATER_LILY
- 115 - NETHER_WARTS
- 119 - ENDER_PORTAL
- 127 - COCOA
- 131 - TRIPWIRE_HOOK
- 132 - TRIPWIRE
- 140 - FLOWER_POT
- 141 - CARROT
- 142 - POTATO
- 143 - WOOD_BUTTON
- 144 - SKULL
- 149 - REDSTONE_COMPARATOR_OFF
- 150 - REDSTONE_COMPARATOR_ON
- 157 - ACTIVATOR_RAIL
- 171 - CARPET
- 175 - DOUBLE_PLANT
- 178 - DAYLIGHT_DETECTOR_INVERTED
-Count: 45
-
-Eatable items & blocks: 
- 260 - APPLE
- 282 - MUSHROOM_SOUP
- 297 - BREAD
- 319 - PORK
- 320 - GRILLED_PORK
- 322 - GOLDEN_APPLE
- 349 - RAW_FISH
- 350 - COOKED_FISH
- 357 - COOKIE
- 360 - MELON
- 363 - RAW_BEEF
- 364 - COOKED_BEEF
- 365 - RAW_CHICKEN
- 366 - COOKED_CHICKEN
- 367 - ROTTEN_FLESH
- 375 - SPIDER_EYE
- 391 - CARROT_ITEM
- 392 - POTATO_ITEM
- 393 - BAKED_POTATO
- 394 - POISONOUS_POTATO
- 396 - GOLDEN_CARROT
- 400 - PUMPKIN_PIE
- 411 - RABBIT
- 412 - COOKED_RABBIT
- 413 - RABBIT_STEW
- 423 - MUTTON
- 424 - COOKED_MUTTON
-Count: 27
-
-All items: 
- 256 - IRON_SPADE
- 257 - IRON_PICKAXE
- 258 - IRON_AXE
- 259 - FLINT_AND_STEEL
- 260 - APPLE
- 261 - BOW
- 262 - ARROW
- 263 - COAL
- 264 - DIAMOND
- 265 - IRON_INGOT
- 266 - GOLD_INGOT
- 267 - IRON_SWORD
- 268 - WOOD_SWORD
- 269 - WOOD_SPADE
- 270 - WOOD_PICKAXE
- 271 - WOOD_AXE
- 272 - STONE_SWORD
- 273 - STONE_SPADE
- 274 - STONE_PICKAXE
- 275 - STONE_AXE
- 276 - DIAMOND_SWORD
- 277 - DIAMOND_SPADE
- 278 - DIAMOND_PICKAXE
- 279 - DIAMOND_AXE
- 280 - STICK
- 281 - BOWL
- 282 - MUSHROOM_SOUP
- 283 - GOLD_SWORD
- 284 - GOLD_SPADE
- 285 - GOLD_PICKAXE
- 286 - GOLD_AXE
- 287 - STRING
- 288 - FEATHER
- 289 - SULPHUR
- 290 - WOOD_HOE
- 291 - STONE_HOE
- 292 - IRON_HOE
- 293 - DIAMOND_HOE
- 294 - GOLD_HOE
- 295 - SEEDS
- 296 - WHEAT
- 297 - BREAD
- 298 - LEATHER_HELMET
- 299 - LEATHER_CHESTPLATE
- 300 - LEATHER_LEGGINGS
- 301 - LEATHER_BOOTS
- 302 - CHAINMAIL_HELMET
- 303 - CHAINMAIL_CHESTPLATE
- 304 - CHAINMAIL_LEGGINGS
- 305 - CHAINMAIL_BOOTS
- 306 - IRON_HELMET
- 307 - IRON_CHESTPLATE
- 308 - IRON_LEGGINGS
- 309 - IRON_BOOTS
- 310 - DIAMOND_HELMET
- 311 - DIAMOND_CHESTPLATE
- 312 - DIAMOND_LEGGINGS
- 313 - DIAMOND_BOOTS
- 314 - GOLD_HELMET
- 315 - GOLD_CHESTPLATE
- 316 - GOLD_LEGGINGS
- 317 - GOLD_BOOTS
- 318 - FLINT
- 319 - PORK
- 320 - GRILLED_PORK
- 321 - PAINTING
- 322 - GOLDEN_APPLE
- 323 - SIGN
- 324 - WOOD_DOOR
- 325 - BUCKET
- 326 - WATER_BUCKET
- 327 - LAVA_BUCKET
- 328 - MINECART
- 329 - SADDLE
- 330 - IRON_DOOR
- 331 - REDSTONE
- 332 - SNOW_BALL
- 333 - BOAT
- 334 - LEATHER
- 335 - MILK_BUCKET
- 336 - CLAY_BRICK
- 337 - CLAY_BALL
- 338 - SUGAR_CANE
- 339 - PAPER
- 340 - BOOK
- 341 - SLIME_BALL
- 342 - STORAGE_MINECART
- 343 - POWERED_MINECART
- 344 - EGG
- 345 - COMPASS
- 346 - FISHING_ROD
- 347 - WATCH
- 348 - GLOWSTONE_DUST
- 349 - RAW_FISH
- 350 - COOKED_FISH
- 351 - INK_SACK
- 352 - BONE
- 353 - SUGAR
- 354 - CAKE
- 355 - BED
- 356 - DIODE
- 357 - COOKIE
- 358 - MAP
- 359 - SHEARS
- 360 - MELON
- 361 - PUMPKIN_SEEDS
- 362 - MELON_SEEDS
- 363 - RAW_BEEF
- 364 - COOKED_BEEF
- 365 - RAW_CHICKEN
- 366 - COOKED_CHICKEN
- 367 - ROTTEN_FLESH
- 368 - ENDER_PEARL
- 369 - BLAZE_ROD
- 370 - GHAST_TEAR
- 371 - GOLD_NUGGET
- 372 - NETHER_STALK
- 373 - POTION
- 374 - GLASS_BOTTLE
- 375 - SPIDER_EYE
- 376 - FERMENTED_SPIDER_EYE
- 377 - BLAZE_POWDER
- 378 - MAGMA_CREAM
- 379 - BREWING_STAND_ITEM
- 380 - CAULDRON_ITEM
- 381 - EYE_OF_ENDER
- 382 - SPECKLED_MELON
- 383 - MONSTER_EGG
- 384 - EXP_BOTTLE
- 385 - FIREBALL
- 386 - BOOK_AND_QUILL
- 387 - WRITTEN_BOOK
- 388 - EMERALD
- 389 - ITEM_FRAME
- 390 - FLOWER_POT_ITEM
- 391 - CARROT_ITEM
- 392 - POTATO_ITEM
- 393 - BAKED_POTATO
- 394 - POISONOUS_POTATO
- 395 - EMPTY_MAP
- 396 - GOLDEN_CARROT
- 397 - SKULL_ITEM
- 398 - CARROT_STICK
- 399 - NETHER_STAR
- 400 - PUMPKIN_PIE
- 401 - FIREWORK
- 402 - FIREWORK_CHARGE
- 403 - ENCHANTED_BOOK
- 404 - REDSTONE_COMPARATOR
- 405 - NETHER_BRICK_ITEM
- 406 - QUARTZ
- 407 - EXPLOSIVE_MINECART
- 408 - HOPPER_MINECART
- 409 - PRISMARINE_SHARD
- 410 - PRISMARINE_CRYSTALS
- 411 - RABBIT
- 412 - COOKED_RABBIT
- 413 - RABBIT_STEW
- 414 - RABBIT_FOOT
- 415 - RABBIT_HIDE
- 416 - ARMOR_STAND
- 417 - IRON_BARDING
- 418 - GOLD_BARDING
- 419 - DIAMOND_BARDING
- 420 - LEASH
- 421 - NAME_TAG
- 422 - COMMAND_MINECART
- 423 - MUTTON
- 424 - COOKED_MUTTON
- 425 - BANNER
- 427 - SPRUCE_DOOR_ITEM
- 428 - BIRCH_DOOR_ITEM
- 429 - JUNGLE_DOOR_ITEM
- 430 - ACACIA_DOOR_ITEM
- 431 - DARK_OAK_DOOR_ITEM
- 2256 - GOLD_RECORD
- 2257 - GREEN_RECORD
- 2258 - RECORD_3
- 2259 - RECORD_4
- 2260 - RECORD_5
- 2261 - RECORD_6
- 2262 - RECORD_7
- 2263 - RECORD_8
- 2264 - RECORD_9
- 2265 - RECORD_10
- 2266 - RECORD_11
- 2267 - RECORD_12
-Count: 187
+0 - AIR - block, transparent, 
+1 - STONE - block, solid, 
+2 - GRASS - block, solid, 
+3 - DIRT - block, solid, 
+4 - COBBLESTONE - block, solid, 
+5 - WOOD - block, solid, burnable, 
+6 - SAPLING - block, transparent, 
+7 - BEDROCK - block, solid, 
+8 - WATER - block, 
+9 - STATIONARY_WATER - block, 
+10 - LAVA - block, 
+11 - STATIONARY_LAVA - block, 
+12 - SAND - block, solid, 
+13 - GRAVEL - block, solid, 
+14 - GOLD_ORE - block, solid, 
+15 - IRON_ORE - block, solid, 
+16 - COAL_ORE - block, solid, 
+17 - LOG - block, solid, burnable, 
+18 - LEAVES - block, solid, burnable, 
+19 - SPONGE - block, solid, 
+20 - GLASS - block, solid, 
+21 - LAPIS_ORE - block, solid, 
+22 - LAPIS_BLOCK - block, solid, 
+23 - DISPENSER - block, solid, 
+24 - SANDSTONE - block, solid, 
+25 - NOTE_BLOCK - block, solid, 
+26 - BED_BLOCK - block, solid, 
+27 - POWERED_RAIL - block, transparent, 
+28 - DETECTOR_RAIL - block, transparent, 
+29 - PISTON_STICKY_BASE - block, solid, 
+30 - WEB - block, 
+31 - LONG_GRASS - block, transparent, burnable, 
+32 - DEAD_BUSH - block, transparent, burnable, 
+33 - PISTON_BASE - block, solid, 
+34 - PISTON_EXTENSION - block, solid, 
+35 - WOOL - block, solid, burnable, 
+36 - PISTON_MOVING_PIECE - block, solid, 
+37 - YELLOW_FLOWER - block, transparent, burnable, 
+38 - RED_ROSE - block, transparent, burnable, 
+39 - BROWN_MUSHROOM - block, transparent, 
+40 - RED_MUSHROOM - block, transparent, 
+41 - GOLD_BLOCK - block, solid, 
+42 - IRON_BLOCK - block, solid, 
+43 - DOUBLE_STEP - block, solid, 
+44 - STEP - block, solid, 
+45 - BRICK - block, solid, 
+46 - TNT - block, solid, burnable, 
+47 - BOOKSHELF - block, solid, burnable, 
+48 - MOSSY_COBBLESTONE - block, solid, 
+49 - OBSIDIAN - block, solid, 
+50 - TORCH - block, transparent, 
+51 - FIRE - block, transparent, 
+52 - MOB_SPAWNER - block, solid, 
+53 - WOOD_STAIRS - block, solid, burnable, 
+54 - CHEST - block, solid, 
+55 - REDSTONE_WIRE - block, transparent, 
+56 - DIAMOND_ORE - block, solid, 
+57 - DIAMOND_BLOCK - block, solid, 
+58 - WORKBENCH - block, solid, 
+59 - CROPS - block, transparent, 
+60 - SOIL - block, solid, 
+61 - FURNACE - block, solid, 
+62 - BURNING_FURNACE - block, solid, 
+63 - SIGN_POST - block, solid, 
+64 - WOODEN_DOOR - block, solid, 
+65 - LADDER - block, transparent, 
+66 - RAILS - block, transparent, 
+67 - COBBLESTONE_STAIRS - block, solid, 
+68 - WALL_SIGN - block, solid, 
+69 - LEVER - block, transparent, 
+70 - STONE_PLATE - block, solid, 
+71 - IRON_DOOR_BLOCK - block, solid, 
+72 - WOOD_PLATE - block, solid, 
+73 - REDSTONE_ORE - block, solid, 
+74 - GLOWING_REDSTONE_ORE - block, solid, 
+75 - REDSTONE_TORCH_OFF - block, transparent, 
+76 - REDSTONE_TORCH_ON - block, transparent, 
+77 - STONE_BUTTON - block, transparent, 
+78 - SNOW - block, transparent, 
+79 - ICE - block, solid, 
+80 - SNOW_BLOCK - block, solid, 
+81 - CACTUS - block, solid, 
+82 - CLAY - block, solid, 
+83 - SUGAR_CANE_BLOCK - block, transparent, 
+84 - JUKEBOX - block, solid, 
+85 - FENCE - block, solid, burnable, 
+86 - PUMPKIN - block, solid, 
+87 - NETHERRACK - block, solid, 
+88 - SOUL_SAND - block, solid, 
+89 - GLOWSTONE - block, solid, 
+90 - PORTAL - block, transparent, 
+91 - JACK_O_LANTERN - block, solid, 
+92 - CAKE_BLOCK - block, solid, 
+93 - DIODE_BLOCK_OFF - block, transparent, 
+94 - DIODE_BLOCK_ON - block, transparent, 
+95 - LOCKED_CHEST - block, solid, 
+95 - STAINED_GLASS - block, solid, 
+96 - TRAP_DOOR - block, solid, 
+97 - MONSTER_EGGS - block, solid, 
+98 - SMOOTH_BRICK - block, solid, 
+99 - HUGE_MUSHROOM_1 - block, solid, 
+100 - HUGE_MUSHROOM_2 - block, solid, 
+101 - IRON_FENCE - block, solid, 
+102 - THIN_GLASS - block, solid, 
+103 - MELON_BLOCK - block, solid, 
+104 - PUMPKIN_STEM - block, transparent, 
+105 - MELON_STEM - block, transparent, 
+106 - VINE - block, transparent, burnable, 
+107 - FENCE_GATE - block, solid, burnable, 
+108 - BRICK_STAIRS - block, solid, 
+109 - SMOOTH_STAIRS - block, solid, 
+110 - MYCEL - block, solid, 
+111 - WATER_LILY - block, transparent, 
+112 - NETHER_BRICK - block, solid, 
+113 - NETHER_FENCE - block, solid, 
+114 - NETHER_BRICK_STAIRS - block, solid, 
+115 - NETHER_WARTS - block, transparent, 
+116 - ENCHANTMENT_TABLE - block, solid, 
+117 - BREWING_STAND - block, solid, 
+118 - CAULDRON - block, solid, 
+119 - ENDER_PORTAL - block, transparent, 
+120 - ENDER_PORTAL_FRAME - block, solid, 
+121 - ENDER_STONE - block, solid, 
+122 - DRAGON_EGG - block, solid, 
+123 - REDSTONE_LAMP_OFF - block, solid, 
+124 - REDSTONE_LAMP_ON - block, solid, 
+125 - WOOD_DOUBLE_STEP - block, solid, burnable, 
+126 - WOOD_STEP - block, solid, burnable, 
+127 - COCOA - block, transparent, 
+128 - SANDSTONE_STAIRS - block, solid, 
+129 - EMERALD_ORE - block, solid, 
+130 - ENDER_CHEST - block, solid, 
+131 - TRIPWIRE_HOOK - block, transparent, 
+132 - TRIPWIRE - block, transparent, 
+133 - EMERALD_BLOCK - block, solid, 
+134 - SPRUCE_WOOD_STAIRS - block, solid, burnable, 
+135 - BIRCH_WOOD_STAIRS - block, solid, burnable, 
+136 - JUNGLE_WOOD_STAIRS - block, solid, burnable, 
+137 - COMMAND - block, solid, 
+138 - BEACON - block, solid, 
+139 - COBBLE_WALL - block, solid, 
+140 - FLOWER_POT - block, transparent, 
+141 - CARROT - block, transparent, 
+142 - POTATO - block, transparent, 
+143 - WOOD_BUTTON - block, transparent, 
+144 - SKULL - block, transparent, 
+145 - ANVIL - block, solid, 
+146 - TRAPPED_CHEST - block, solid, 
+147 - GOLD_PLATE - block, solid, 
+148 - IRON_PLATE - block, solid, 
+149 - REDSTONE_COMPARATOR_OFF - block, transparent, 
+150 - REDSTONE_COMPARATOR_ON - block, transparent, 
+151 - DAYLIGHT_DETECTOR - block, solid, 
+152 - REDSTONE_BLOCK - block, solid, 
+153 - QUARTZ_ORE - block, solid, 
+154 - HOPPER - block, solid, 
+155 - QUARTZ_BLOCK - block, solid, 
+156 - QUARTZ_STAIRS - block, solid, 
+157 - ACTIVATOR_RAIL - block, transparent, 
+158 - DROPPER - block, solid, 
+159 - STAINED_CLAY - block, solid, 
+160 - STAINED_GLASS_PANE - block, solid, 
+161 - LEAVES_2 - block, solid, burnable, 
+162 - LOG_2 - block, solid, burnable, 
+163 - ACACIA_STAIRS - block, solid, 
+164 - DARK_OAK_STAIRS - block, solid, 
+165 - SLIME_BLOCK - block, solid, 
+166 - BARRIER - block, solid, 
+167 - IRON_TRAPDOOR - block, solid, 
+168 - PRISMARINE - block, solid, 
+169 - SEA_LANTERN - block, solid, 
+170 - HAY_BLOCK - block, solid, burnable, 
+171 - CARPET - block, transparent, burnable, 
+172 - HARD_CLAY - block, solid, 
+173 - COAL_BLOCK - block, solid, burnable, 
+174 - PACKED_ICE - block, solid, 
+175 - DOUBLE_PLANT - block, transparent, burnable, 
+176 - STANDING_BANNER - block, 
+177 - WALL_BANNER - block, 
+178 - DAYLIGHT_DETECTOR_INVERTED - block, transparent, 
+179 - RED_SANDSTONE - block, solid, 
+180 - RED_SANDSTONE_STAIRS - block, solid, 
+181 - DOUBLE_STONE_SLAB2 - block, solid, 
+182 - STONE_SLAB2 - block, solid, 
+183 - SPRUCE_FENCE_GATE - block, solid, burnable, 
+184 - BIRCH_FENCE_GATE - block, solid, burnable, 
+185 - JUNGLE_FENCE_GATE - block, solid, burnable, 
+186 - DARK_OAK_FENCE_GATE - block, solid, burnable, 
+187 - ACACIA_FENCE_GATE - block, solid, burnable, 
+188 - SPRUCE_FENCE - block, solid, burnable, 
+189 - BIRCH_FENCE - block, solid, burnable, 
+190 - JUNGLE_FENCE - block, solid, burnable, 
+191 - DARK_OAK_FENCE - block, solid, burnable, 
+192 - ACACIA_FENCE - block, solid, burnable, 
+193 - SPRUCE_DOOR - block, 
+194 - BIRCH_DOOR - block, 
+195 - JUNGLE_DOOR - block, 
+196 - ACACIA_DOOR - block, 
+197 - DARK_OAK_DOOR - block, 
+256 - IRON_SPADE - item, 
+257 - IRON_PICKAXE - item, 
+258 - IRON_AXE - item, 
+259 - FLINT_AND_STEEL - item, 
+260 - APPLE - item, food, 
+261 - BOW - item, 
+262 - ARROW - item, 
+263 - COAL - item, 
+264 - DIAMOND - item, 
+265 - IRON_INGOT - item, 
+266 - GOLD_INGOT - item, 
+267 - IRON_SWORD - item, 
+268 - WOOD_SWORD - item, 
+269 - WOOD_SPADE - item, 
+270 - WOOD_PICKAXE - item, 
+271 - WOOD_AXE - item, 
+272 - STONE_SWORD - item, 
+273 - STONE_SPADE - item, 
+274 - STONE_PICKAXE - item, 
+275 - STONE_AXE - item, 
+276 - DIAMOND_SWORD - item, 
+277 - DIAMOND_SPADE - item, 
+278 - DIAMOND_PICKAXE - item, 
+279 - DIAMOND_AXE - item, 
+280 - STICK - item, 
+281 - BOWL - item, 
+282 - MUSHROOM_SOUP - item, food, 
+283 - GOLD_SWORD - item, 
+284 - GOLD_SPADE - item, 
+285 - GOLD_PICKAXE - item, 
+286 - GOLD_AXE - item, 
+287 - STRING - item, 
+288 - FEATHER - item, 
+289 - SULPHUR - item, 
+290 - WOOD_HOE - item, 
+291 - STONE_HOE - item, 
+292 - IRON_HOE - item, 
+293 - DIAMOND_HOE - item, 
+294 - GOLD_HOE - item, 
+295 - SEEDS - item, 
+296 - WHEAT - item, 
+297 - BREAD - item, food, 
+298 - LEATHER_HELMET - item, 
+299 - LEATHER_CHESTPLATE - item, 
+300 - LEATHER_LEGGINGS - item, 
+301 - LEATHER_BOOTS - item, 
+302 - CHAINMAIL_HELMET - item, 
+303 - CHAINMAIL_CHESTPLATE - item, 
+304 - CHAINMAIL_LEGGINGS - item, 
+305 - CHAINMAIL_BOOTS - item, 
+306 - IRON_HELMET - item, 
+307 - IRON_CHESTPLATE - item, 
+308 - IRON_LEGGINGS - item, 
+309 - IRON_BOOTS - item, 
+310 - DIAMOND_HELMET - item, 
+311 - DIAMOND_CHESTPLATE - item, 
+312 - DIAMOND_LEGGINGS - item, 
+313 - DIAMOND_BOOTS - item, 
+314 - GOLD_HELMET - item, 
+315 - GOLD_CHESTPLATE - item, 
+316 - GOLD_LEGGINGS - item, 
+317 - GOLD_BOOTS - item, 
+318 - FLINT - item, 
+319 - PORK - item, food, 
+320 - GRILLED_PORK - item, food, 
+321 - PAINTING - item, 
+322 - GOLDEN_APPLE - item, food, 
+323 - SIGN - item, 
+324 - WOOD_DOOR - item, 
+325 - BUCKET - item, 
+326 - WATER_BUCKET - item, 
+327 - LAVA_BUCKET - item, 
+328 - MINECART - item, 
+329 - SADDLE - item, 
+330 - IRON_DOOR - item, 
+331 - REDSTONE - item, 
+332 - SNOW_BALL - item, 
+333 - BOAT - item, 
+334 - LEATHER - item, 
+335 - MILK_BUCKET - item, 
+336 - CLAY_BRICK - item, 
+337 - CLAY_BALL - item, 
+338 - SUGAR_CANE - item, 
+339 - PAPER - item, 
+340 - BOOK - item, 
+341 - SLIME_BALL - item, 
+342 - STORAGE_MINECART - item, 
+343 - POWERED_MINECART - item, 
+344 - EGG - item, 
+345 - COMPASS - item, 
+346 - FISHING_ROD - item, 
+347 - WATCH - item, 
+348 - GLOWSTONE_DUST - item, 
+349 - RAW_FISH - item, food, 
+350 - COOKED_FISH - item, food, 
+351 - INK_SACK - item, 
+352 - BONE - item, 
+353 - SUGAR - item, 
+354 - CAKE - item, 
+355 - BED - item, 
+356 - DIODE - item, 
+357 - COOKIE - item, food, 
+358 - MAP - item, 
+359 - SHEARS - item, 
+360 - MELON - item, food, 
+361 - PUMPKIN_SEEDS - item, 
+362 - MELON_SEEDS - item, 
+363 - RAW_BEEF - item, food, 
+364 - COOKED_BEEF - item, food, 
+365 - RAW_CHICKEN - item, food, 
+366 - COOKED_CHICKEN - item, food, 
+367 - ROTTEN_FLESH - item, food, 
+368 - ENDER_PEARL - item, 
+369 - BLAZE_ROD - item, 
+370 - GHAST_TEAR - item, 
+371 - GOLD_NUGGET - item, 
+372 - NETHER_STALK - item, 
+373 - POTION - item, 
+374 - GLASS_BOTTLE - item, 
+375 - SPIDER_EYE - item, food, 
+376 - FERMENTED_SPIDER_EYE - item, 
+377 - BLAZE_POWDER - item, 
+378 - MAGMA_CREAM - item, 
+379 - BREWING_STAND_ITEM - item, 
+380 - CAULDRON_ITEM - item, 
+381 - EYE_OF_ENDER - item, 
+382 - SPECKLED_MELON - item, 
+383 - MONSTER_EGG - item, 
+384 - EXP_BOTTLE - item, 
+385 - FIREBALL - item, 
+386 - BOOK_AND_QUILL - item, 
+387 - WRITTEN_BOOK - item, 
+388 - EMERALD - item, 
+389 - ITEM_FRAME - item, 
+390 - FLOWER_POT_ITEM - item, 
+391 - CARROT_ITEM - item, food, 
+392 - POTATO_ITEM - item, food, 
+393 - BAKED_POTATO - item, food, 
+394 - POISONOUS_POTATO - item, food, 
+395 - EMPTY_MAP - item, 
+396 - GOLDEN_CARROT - item, food, 
+397 - SKULL_ITEM - item, 
+398 - CARROT_STICK - item, 
+399 - NETHER_STAR - item, 
+400 - PUMPKIN_PIE - item, food, 
+401 - FIREWORK - item, 
+402 - FIREWORK_CHARGE - item, 
+403 - ENCHANTED_BOOK - item, 
+404 - REDSTONE_COMPARATOR - item, 
+405 - NETHER_BRICK_ITEM - item, 
+406 - QUARTZ - item, 
+407 - EXPLOSIVE_MINECART - item, 
+408 - HOPPER_MINECART - item, 
+409 - PRISMARINE_SHARD - item, 
+410 - PRISMARINE_CRYSTALS - item, 
+411 - RABBIT - item, food, 
+412 - COOKED_RABBIT - item, food, 
+413 - RABBIT_STEW - item, food, 
+414 - RABBIT_FOOT - item, 
+415 - RABBIT_HIDE - item, 
+416 - ARMOR_STAND - item, 
+417 - IRON_BARDING - item, 
+418 - GOLD_BARDING - item, 
+419 - DIAMOND_BARDING - item, 
+420 - LEASH - item, 
+421 - NAME_TAG - item, 
+422 - COMMAND_MINECART - item, 
+423 - MUTTON - item, food, 
+424 - COOKED_MUTTON - item, food, 
+425 - BANNER - item, 
+427 - SPRUCE_DOOR_ITEM - item, 
+428 - BIRCH_DOOR_ITEM - item, 
+429 - JUNGLE_DOOR_ITEM - item, 
+430 - ACACIA_DOOR_ITEM - item, 
+431 - DARK_OAK_DOOR_ITEM - item, 
+2256 - GOLD_RECORD - item, 
+2257 - GREEN_RECORD - item, 
+2258 - RECORD_3 - item, 
+2259 - RECORD_4 - item, 
+2260 - RECORD_5 - item, 
+2261 - RECORD_6 - item, 
+2262 - RECORD_7 - item, 
+2263 - RECORD_8 - item, 
+2264 - RECORD_9 - item, 
+2265 - RECORD_10 - item, 
+2266 - RECORD_11 - item, 
+2267 - RECORD_12 - item, 
