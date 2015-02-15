@@ -11,7 +11,7 @@
 3 - DIRT:1 (Coarse Dirt) - block, solid, 
 3 - DIRT:2 (Podzol) - block, solid, 
 4 - COBBLESTONE - block, solid, 
-5 - WOOD - (Oak Wood Plank) block, solid, burnable, 
+5 - WOOD (Oak Wood Plank) - block, solid, burnable, 
 5 - WOOD:1 (Spruce Wood Plank) - block, solid, burnable, 
 5 - WOOD:2 (Birch Wood Plank) - block, solid, burnable, 
 5 - WOOD:3 (Jungle Wood Plank) - block, solid, burnable, 
