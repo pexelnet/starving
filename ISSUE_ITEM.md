@@ -4,12 +4,12 @@
 **Názov:** Padák (Parachute)
 - Názov itemu v angličtine a v slovenčine.
 
-**Mapping:** `GOLD_HOE:0` 
+**Mapovanie:** `GOLD_HOE:0` 
 - Mapovanie tohoto itemu na existujúci item vo formáte `MATERIAL:data`. 
 - Zoznam aktuálnych mapovaní je možné nájsť tu: <http://starving.eu/mapping.php>
 - Konštanty typu materiálu je možné nájšt tu: <https://hub.spigotmc.org/stash/projects/SPIGOT/repos/bukkit/browse/src/main/java/org/bukkit/Material.java> 
 
-**Max Stack Amount:** 1
+**Veľkosť stacku:** 1
 - maximálny počet itemov v jednom stacku
 
 **Zriedkavosť:** UNCOMMON
